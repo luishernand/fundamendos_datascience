@@ -2,8 +2,8 @@
 
 # Proyecto de ciencias de datos (Análisis de Salarios)  
 
-1- Limpieza de datos o dataclening.
-2- Análisis de datos exploratorio(EDA)
+1- Limpieza de datos o dataclening.  
+2- Análisis de datos exploratorio(EDA)  
 3- Creación de los modelos  
 
 ## Jupyther Notebook  
